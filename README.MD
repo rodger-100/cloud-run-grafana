@@ -1,4 +1,4 @@
-## Cloud run / Knativ Docker image for grafana
+## Cloud run / Knative Docker image for grafana
 
 This repo is to build the Grafana Dashboard on Knative or google cloud run so that everything is backed into the docker and you will have read only grafana link for your pitch
 
