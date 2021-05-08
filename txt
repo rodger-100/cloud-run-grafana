@@ -1,0 +1,4 @@
+docker build . -t my-g
+docker run -d -p 8008:3000  my-g
+docker build . -t gcr.io/cloud-run-test-241704/grafana
+docker push gcr.io/cloud-run-test-241704/grafana
