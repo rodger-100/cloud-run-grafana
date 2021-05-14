@@ -13,32 +13,7 @@ datasources:
   secureJsonData:
        privateKey: |
           -----BEGIN PRIVATE KEY-----
-          MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfjwSanN42MBor
-          gbwZN4sMBwwqqOzZbGOXJ++rtmjpYW1eCVqIGICmx/UfHhLcRZp2o3dyQt4Z3Wg1
-          tkDc/i5iy02IQJ3XztPvMA8Ji7Wf8eR0T48IENRB714sEs5oANT7iLSypkKjoRkK
-          PEx+rB2nwNCQEpows300+gWDH7RPw04BTB+Gbigh8LTNin3pbd0A9Een8JBTQ2OF
-          mdb5jNayF3xxXSumCR01EYokCiEjIE7p2na0Til9oBDYVqlZx92fT0Vq8u7uPVKJ
-          hs6pi4W5OmLrCqWiCqfyN+uljbL/uEz5SpYgAMG9SnOhMjZgc/gq2RbwQaiGqGPt
-          D3wWJyMVAgMBAAECggEAAe7HtnJWf1XWh1B8I9qoO9/QLhC1EVtbZ6utHuMbHIXL
-          2MybtMc5NB8uPeKz7BU8WwBwmrXd8cNcqj1+kr64dwVkt2HZZGsSszr3JhCaOI/Q
-          farJPhnrSRYtb/+IhQcXjVymHBdHLash15DyuA99Kqvhyt3GBN3m7LY0ZjBDRqEM
-          P2mprkWIXLYNDCS3C+VKeKuLZja9yFzuRWVTYBOQ1XTcBoSHLgkLqhrOuDtMhViV
-          1M82XOT+TVfLODKhMYLGaYhIhiWU6WUzjH/9Oej8XHI7D+hygsXnC1C3fsx9aNJq
-          zLPTTtBpOJVMDbXDUFSq3thWodRlUamevr//UuxSOQKBgQDY5PfOHFfE+6gufpMl
-          qnFUSErV6sF0jQD9r9fffChWXX+oiHwjnPGrUCh8ZRugJ1zIYATqBZj7VL0y6gDa
-          jDp7oqDSO73VnluFXZW9kox/UiYHa3fPWmEj+6Rz7ZSdV+z5vAd0mNaEu1UsjPDy
-          zaVYN3kEaMlvQ73EIi4WqtCf6QKBgQC8U6WynVdW/nwy+0+kiogAMj9byqaKLHsc
-          Yb8z59Rl8cmj9uO9sySJoOiYKEeSXeBEB2CYZwCkOUT6Jo9GxKl6uALO88XPARBe
-          i3a99HiPforhxCEsV9BmoMLFm8LGxfQcnwOApYUyxVOCo4LM1rYNL7lwTN29kmUd
-          iWdMQmJ6TQKBgEGe5KpjQNrEGNoYSYS30JnjVWDrKaSNlKMsNG/VLI8Usq7WvFg5
-          /5QJKHaaUIVf415sTpBPKT3BIYzp52A31OnbBjUVBhY/Vwk+izNTx1YuEHtmNFVz
-          zrgIRnUciD4if/v+u3K3Ww/FbbuQ2MVdGo1aGy8OVQNox10zyiXpgD0hAoGBAKzM
-          P3w9HFeJF6Kbrv710UYE1Ne/gMHFgIyRL6RLsjp7+R1GOr7jscHKb8C1LL6i/lTN
-          RBdyY0dL+PtiCBLR/gPI9WK4kCaY/lERvDkdKMXZQUtX72xFgsW3+h7hBX3nQk5E
-          pS0UMrxcDH0Q1MJovBArWwYssUTxH3BTlAGH4939AoGAbZLOhYQPli1b9v5e2Ofo
-          7mfbCTnbxEiDBzjbWWKPhad5Qs6ZHPjNQ43kEHIIIliXFyLQ3NmxdqOS65v8SvMT
-          WIU8FEWL6Jds1vS7Q3avHYNaNjxg6Y4EBMfPU3jcOYm/h6iBpLNE7rVPvTJmghlI
-          wW4KzBw8gdGYMKxN5gHNDPQ=
+         private key
           -----END PRIVATE KEY-----
   version: 2
   readOnly: false
