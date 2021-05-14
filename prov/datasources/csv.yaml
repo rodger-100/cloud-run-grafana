@@ -1,0 +1,12 @@
+apiVersion: 1
+
+datasources:
+- name: Comma-sep
+  type: marcusolsson-csv-datasource
+  typeName: CSV
+  access: proxy
+  http: true
+  url: "https://storage.googleapis.com/cloud-run-test-bhanu/test.csv"
+  version: 2
+  readOnly: false
+  jsonData: {"storage":"http"}
