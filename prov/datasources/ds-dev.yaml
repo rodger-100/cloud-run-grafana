@@ -70,16 +70,6 @@ datasources:
     jsonData:
       version: Flux
 
-  - name: gdev-influxdb-influxql
-    type: influxdb
-    access: proxy
-    database: mybucket
-    url: http://localhost:8086
-    jsonData:
-      httpHeaderName1: "Authorization"
-    secureJsonData:
-      httpHeaderValue1: "Token mytoken"
-
   - name: gdev-opentsdb
     type: opentsdb
     access: proxy
@@ -195,13 +185,6 @@ datasources:
     jsonData:
       sslmode: "disable"
 
-  - name: gdev-cloudwatch
-    type: cloudwatch
-    editable: true
-    jsonData:
-      authType: credentials
-      defaultRegion: eu-west-2
-      customMetricsNamespaces: "CWAgent"
 
   - name: gdev-loki
     type: loki

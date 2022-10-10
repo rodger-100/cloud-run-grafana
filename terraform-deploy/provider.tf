@@ -3,13 +3,21 @@ terraform {
 
   required_providers {
     google = ">=3.3"
+    google-beta = {
+      source  = "hashicorp/google-beta"
+      version = "4.25.0"
+    }
   }
 }
 
 provider "google" {
-    project = "pwc-rsx-rfx-dev"
+  project = "pwc-rsx-rfx-dev"
+  region  = "europe-west1"
 }
 
-resource "google_project_service" "run_api" {
-    service = "run.googleapis.com"
-  }
+provider "google-beta" {
+  project = "pwc-rsx-rfx-dev"
+  region  = "europe-west1"
+
+}
+
